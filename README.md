@@ -1,7 +1,7 @@
 # **DigitalPub DataViking**
 # **Python & Data Analysis**
 
-Mogakolodi Tlotlang** - [https://www.linkedin.com/in/mogakolodi-tlotlang-007b37231/) 
+Mogakolodi Tlotlang** - [https://www.linkedin.com/in/mogakolodi-tlotlang-007b37231/)    
 Data Vicking** - [https://www.linkedin.com/company/data-viking/)  
 
 1.# **About the Uptime Project**

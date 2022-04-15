@@ -1,6 +1,6 @@
 # DigitalPub 
 
-# Python & Data Analysis** 
+# Python & Data Analysis
 
 Mogakolodi Tlotlang** - [https://www.linkedin.com/in/mogakolodi-tlotlang-007b37231/) 
 
@@ -12,7 +12,7 @@ Data Vicking** - [https://www.linkedin.com/company/data-viking/)
 
 
 
-# About the Unicorn Projectt** 
+# About the Unicorn Project
 "Unicorn" is a term used in the venture capital industry to describe a privately held startup worth more than $1 billion. The term was first popularized by venture capitalist Aileen Lee, founder of Cowboy Ventures, a venture capital fund based in Palo Alto, California.
 
 Unicorns can also refer to a recruitment phenomenon in the human resources (HR) industry. HR managers can have high expectations for filling a role, leading them to look for candidates with higher qualifications than what is required for a specific role. In essence, these managers are looking for a unicorn, which leads to a disconnect between their ideal candidate and who they can hire from the pool of available people.
